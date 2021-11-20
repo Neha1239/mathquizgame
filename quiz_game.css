@@ -1,11 +1,11 @@
 body
 {
-	background: lightblue;
+	background-color: salmon;
 }
 
 	.login_div1 , .login_div2
 	{
-		background: rgb(143, 70, 192);
+		background: rgb(246, 246, 247);
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
@@ -16,4 +16,13 @@ body
 {
 	display: inline-block;
 	margin-left: 20px;
+}
+#output
+{
+	background:white;
+	border-radius: 10px;
+	border-top: 10px solid rgb(0, 0, 0);
+	padding:10px;
+	float:none;
+	text-align: left;
 }
