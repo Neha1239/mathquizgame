@@ -26,3 +26,7 @@ body
 	float:none;
 	text-align: left;
 }
+#btn_send
+{
+width:30%;
+}
